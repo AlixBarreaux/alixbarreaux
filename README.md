@@ -1,4 +1,4 @@
-SUMMARY:
+<h2>SUMMARY:</h2>
 <br />
 
 ✏️ After 4 years of experience in self taught game development I'm preparing for my Bachelor of Application Developer Designer with an apprenticeship (full stack developer capabilities with an apprenticeship contract which I'm looking for right now) with the school O'Clock. Note: I'm French and I'm based near Paris.
@@ -11,7 +11,7 @@ SUMMARY:
 
 <br />
 
-CONTACT:
+<h2>CONTACT:</h2>
 
 📱+33 6 33 29 08 33 (French phone number)
 
@@ -19,6 +19,9 @@ CONTACT:
 
 <br />
 
-INFO:
-<br /><br />
+<h2>INFO:</h2>
+<br />
+
+🟦 LinkedIn: https://www.linkedin.com/in/alix-barreaux/
+
 📰 Portfolio: https://alixbarreaux.github.io
