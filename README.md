@@ -16,5 +16,3 @@ CONTACT:
 
 INFO:
 📰 Portfolio: https://alixbarreaux.github.io
-
-🐈‍⬛ Github: https://github.com/alixbarreaux
