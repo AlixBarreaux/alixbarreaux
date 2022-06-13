@@ -1,3 +1,6 @@
+SUMMARY:
+<br />
+
 ✏️ After 4 years of experience in self taught game development I'm preparing for my Bachelor of Application Developer Designer with an apprenticeship (full stack developer capabilities with an apprenticeship contract which I'm looking for right now) with the school O'Clock. Note: I'm French and I'm based near Paris.
 
 👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team Projects Management, Networking (multiplayer), Internationalization, [...]
@@ -14,5 +17,8 @@ CONTACT:
 
 ✉️ alixbarreaux@tutanota.com
 
+<br />
+
 INFO:
+<br /><br />
 📰 Portfolio: https://alixbarreaux.github.io
