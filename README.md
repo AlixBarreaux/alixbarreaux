@@ -13,8 +13,6 @@
 
 <h2>CONTACT:</h2>
 
-📱+33 6 33 29 08 33 (French phone number)
-
 ✉️ alixbarreaux@tutanota.com
 
 <br />
