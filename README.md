@@ -1,9 +1,9 @@
 <h2>SUMMARY:</h2>
 <br />
 
-✏️ After 4 years of experience in self taught game development I'm preparing for my Bachelor of Application Developer Designer with an apprenticeship (full stack developer capabilities with an apprenticeship contract which I'm looking for right now) with the school O'Clock. Note: I'm French and I'm based near Paris.
+✏️ After 4 years of experience in self taught game development I'm preparing my Bachelor of Application Developer Designer via an apprenticeship. (full stack developer capabilities) Note: I'm French and I'm based near Paris.
 
-👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team Projects Management, Networking (multiplayer), Internationalization, [...]
+👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team / Project Management, Networking (multiplayer), Internationalization, [...]
 
 ⚙️ I'm currently working with HTML, CSS, JavaScript, PHP and my professional goal is to sign an apprenticeship contract in order to work in the company on a long term basis.
 
