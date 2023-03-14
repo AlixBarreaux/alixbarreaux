@@ -5,7 +5,7 @@
 
 👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team / Project Management, Networking (multiplayer), Internationalization, [...]
 
-⚙️ I'm currently working with HTML, CSS, JavaScript, PHP and my professional goal is to sign an apprenticeship contract in order to work in the company on a long term basis.
+⚙️ I'm currently working with React, TS / JS, HTML, CSS.
 
 ❤️ I have an unconditional love for the development sphere but code isn't everything to me: The user is also my priority and so is choosing the right tool for the right task.
 
