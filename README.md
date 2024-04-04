@@ -17,6 +17,7 @@
 
 ✉️ alixbarreaux@tutanota.com
 <br />
+<br />
 🟦 LinkedIn: https://www.linkedin.com/in/alix-barreaux/
 
 <br />
