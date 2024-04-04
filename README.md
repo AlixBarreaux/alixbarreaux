@@ -1,11 +1,13 @@
 <h2>SUMMARY:</h2>
 <br />
 
-✏️ After 5 years of experience in self taught game development I'm preparing my Bachelor of Application Developer and Designer via an apprenticeship. (full stack developer capabilities) Note: I'm French and I'm based near Paris.
+✏️ After 6 years of experience in self taught game development and 1,5 years as a test automation engineer I'm open to any type of opportunity in these domains.
 
-👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team / Project Management, Networking (multiplayer), Internationalization, [...]
+🌎 I can move anywhere in the world provided you have an interesting offer!
 
-⚙️ I'm currently working with React, Cypress / PlayWright, TS / JS, HTML, CSS.
+👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team Projects Management, Networking (multiplayer), Internationalization, [...]
+
+⚙️ I'm working with Playwright, Cypress, React, HTML, CSS, TypeScript / JavaScript.
 
 ❤️ I have an unconditional love for the development sphere but code isn't everything to me: The user is also my priority and so is choosing the right tool for the right task.
 
@@ -14,12 +16,11 @@
 <h2>CONTACT:</h2>
 
 ✉️ alixbarreaux@tutanota.com
+🟦 LinkedIn: https://www.linkedin.com/in/alix-barreaux/
 
 <br />
 
 <h2>INFO:</h2>
 <br />
-
-🟦 LinkedIn: https://www.linkedin.com/in/alix-barreaux/
 
 📰 Portfolio: https://alixbarreaux.github.io
