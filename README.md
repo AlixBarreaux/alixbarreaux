@@ -1,15 +1,15 @@
 <h2>SUMMARY:</h2>
 <br />
 
-✏️ After 6 years of experience in self taught game development and 1,5 years as a test automation engineer I'm open to any type of opportunity in these domains.
+✏️ I'm developing games with Godot Engine since ~2019 with different teams I managed or solo in both 2D and 3D. I'm working on multiplayer projects with dedicated servers with previous Web Development / Automated Testing work experience. I'm passionate about Open Source, Game Design, Testing and Accessibility.
 
-🌎 I can move anywhere in the world provided you have an interesting offer!
+🌎 I'm open to new opportunities anywhere in the world!
 
-👨‍💻 Game Development offered me different skill sets: Programming (Object Oriented), Team Projects Management, Networking (multiplayer), Internationalization, [...]
+👨‍💻 Game / Web Development helped me forge different skill sets: Team / Project Management, DevOps, Networking (multiplayer), Test Automation, Object Oriented Programming (OOP), Internationalization, and more.
 
-⚙️ I'm working with Playwright, Cypress, React, HTML, CSS, TypeScript / JavaScript.
+⚙️ I mainly use Godot Engine, Taiga, Git, Blender, GDUnit4, Podman / Docker.
 
-❤️ I have an unconditional love for the development sphere but code isn't everything to me: The user is also my priority and so is choosing the right tool for the right task.
+❤️ I have an unconditional love for game dev but technical work isn't everything to me: The Player is my priority and so is my Team.
 
 <br />
 
