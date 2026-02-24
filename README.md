@@ -19,3 +19,12 @@ https://alixbarreaux.github.io
 [alixbarreaux@proton.me](mailto:alixbarreaux@proton.me)
 
 https://www.linkedin.com/in/alix-barreaux/
+
+
+## Projects
+
+Invoice Flow - Automation-first full-stack system with structured regression & CI
+
+Cypress automation strategy (Wirk - Case study available upon request)
+
+Open source contributions (Stronghold Crusader Definitive Edition)
