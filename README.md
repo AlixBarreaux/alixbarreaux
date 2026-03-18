@@ -25,6 +25,6 @@ https://www.linkedin.com/in/alix-barreaux/
 
 Invoice Flow - Automation-first full-stack system with structured regression & CI
 
-Cypress automation strategy (Wirk - Case study available upon request)
+Meetic Full Manual QA Suite - Testing suite focused on the Meetic web application registration flow
 
 Open source contributions (Stronghold Crusader Definitive Edition)
