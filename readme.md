@@ -29,7 +29,7 @@ Complete manual QA workflow including test plan, exploratory testing, test cases
 ### Invoice Flow
 
 [GitHub Repository](https://github.com/AlixBarreaux/invoice-flow)  
-Automation-first full-stack system demonstrating E2E testing, CI/CD, and testable architecture.
+Automation-first full-stack system demonstrating testable architecture, with E2E testing and CI/CD currently in progress.
 
 ### Open Source Contributions
 
