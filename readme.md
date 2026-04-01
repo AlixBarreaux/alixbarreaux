@@ -2,7 +2,7 @@
 
 I help teams prevent production bugs and improve software reliability through structured QA and testing.
 
-Experience in both **manual testing** and **test automation**, with a focus on:
+Experience in both **test automation** and **manual testing**, with a focus on:
 
 - Exploratory testing
 - Test design
