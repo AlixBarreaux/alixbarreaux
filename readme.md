@@ -2,7 +2,7 @@
 
 QA Engineer / SDET focused on preventing production bugs and improving software reliability through structured QA and testing.
 
-Experience in **test automation** (Cypress E2E), **manual testing** and test architecture, with additional experience with API testing and CI/CD concepts.
+Experience in **test automation** (Cypress E2E), **manual testing** and test architecture, with additional experience in API testing and CI/CD concepts.
 
 At Wirk, I built a Cypress E2E suite from scratch and increased regression coverage from 0% to ~80% of critical flows.
 
