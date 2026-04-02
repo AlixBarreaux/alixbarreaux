@@ -1,13 +1,8 @@
-# QA Engineer (Manual Testing & Automation)
+# QA Engineer (Automated and Manual Testing)
 
-I help teams prevent production bugs and improve software reliability through structured QA and testing.
+QA Engineer / SDET focused on preventing production bugs and improving software reliability through structured QA and testing.
 
-Experience in both **test automation** and **manual testing**, with a focus on:
-
-- Exploratory testing
-- Test design
-- Bug reporting
-- End-to-end automation (Cypress, Playwright)
+Experience in **test automation** (Cypress E2E), **manual testing** and test architecture, with additional experience with API testing and CI/CD concepts.
 
 At Wirk, I built a Cypress E2E suite from scratch and increased regression coverage from 0% to ~80% of critical flows.
 
@@ -15,7 +10,7 @@ At Wirk, I built a Cypress E2E suite from scratch and increased regression cover
 
 ## Tech
 
-Cypress • Playwright • TypeScript • CI/CD • GitHub Actions • Docker
+Cypress • TypeScript • API Testing • Git • GitHub Actions (basics) • Docker
 
 ---
 
@@ -24,12 +19,12 @@ Cypress • Playwright • TypeScript • CI/CD • GitHub Actions • Docker
 ### Meetic Full Manual QA Suite  
 
 [GitHub Repository](https://github.com/AlixBarreaux/meetic-full-manual-qa-suite)  
-Complete manual QA workflow including test plan, exploratory testing, test cases, executions, and structured bug reports.
+Personal project demonstrating a complete manual QA workflow: Test plan, exploratory testing, test cases, test executions, and structured bug reports.
 
 ### Invoice Flow
 
 [GitHub Repository](https://github.com/AlixBarreaux/invoice-flow)  
-Automation-first full-stack system demonstrating testable architecture, with E2E testing and CI/CD currently in progress.
+Personal project built to demonstrate testable architecture and automation strategy. E2E testing and CI/CD are in progress.
 
 ### Open Source Contributions
 
